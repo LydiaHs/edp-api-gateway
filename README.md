@@ -1,1 +1,1 @@
-# edp-api-gateway
+edp-api-gateway — handles authentication for internal EDP services
